@@ -1,6 +1,3 @@
-# Re-running the code after kernel reset to regenerate the beautified README.md file
-
-readme_content = """\
 <h1 align="center">👋 Hi, I'm <span style="color:#1DA1F2">Anurag Singh</span></h1>
 
 <p align="center">
@@ -70,12 +67,3 @@ readme_content = """\
 ---
 
 ⭐️ *Thanks for visiting my profile! Feel free to check out my pinned repos.*
-"""
-
-# Save the beautified README.md file
-readme_path = "/mnt/data/README.md"
-with open(readme_path, "w") as f:
-    f.write(readme_content)
-
-readme_path
-
