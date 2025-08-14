@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 💼 Software Engineer at **Propark Mobility** (Feb 2023 – Present)
+- 💼 Software Engineer at **Propark Mobility** (Feb 2023 – Jul 2025)
 - 🌐 Building scalable, high-performance apps from scratch
 - 🔄 Automating workflows with CI/CD, GitHub Actions, Docker
 - 🤖 Creating AI-based features using **OpenAI**, **Twilio**, and **SendGrid**
@@ -17,7 +17,7 @@
 
 ---
 
-### 🏢 Current Projects at Propark Mobility
+### 🏢 Projects at Propark Mobility
 
 - 🔧 **Cloudpark Admin:** Replaced static JSON configs with a dynamic dashboard for lane, PARCS, and manager onboarding.
 - 🎧 **Cloudpark Flex:** Built a stable custom Flex app, now handling **100K+ calls/month**.
